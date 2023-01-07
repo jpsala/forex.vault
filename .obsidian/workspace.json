@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8c2eda43ed702f2",
+        "id": "52ff09a998b3f4bb",
         "type": "tabs",
         "children": [
           {
-            "id": "76d6512370af5ffc",
+            "id": "21a193b5abc97990",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Backtesting/K4xElite/Live NY Sessions.excalidraw.md"
+                "file": "Excalidraw/Entrie types.md"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backtesting/K4xElite/Live NY Sessions.excalidraw.md",
+                "file": "Excalidraw/Entrie types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backtesting/K4xElite/Live NY Sessions.excalidraw.md",
+                "file": "Excalidraw/Entrie types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backtesting/K4xElite/Live NY Sessions.excalidraw.md"
+                "file": "Excalidraw/Entrie types.md"
               }
             }
           },
@@ -208,17 +208,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "76d6512370af5ffc",
+  "active": "21a193b5abc97990",
   "lastOpenFiles": [
-    "Excalidraw/draw_230107-153717.md",
+    "Pasted Image 20230107195744_900.png",
+    "K4xElite/Live NY trade.md",
+    "K4xElite/putting it all together.md",
+    "Excalidraw/Entrie types.md",
     "Backtesting/K4xElite/Live NY Sessions.excalidraw.md",
+    "Excalidraw/Scripts/jp-forex-set-element-size.md",
+    "Excalidraw/draw_230107-153717.md",
     "Backtesting/K4xElite/Live NY Sessions.md",
     "Backtesting/draw_230107-152015.md",
-    "templates/Daily.md",
-    "Excalidraw/draw_230107-143159.md",
-    "Excalidraw/draw_230107-143022.md",
-    "Excalidraw/draw_230107-143157.md",
-    "Excalidraw/draw_230107-143112.md",
-    "Untitled.md"
+    "templates/Daily.md"
   ]
 }

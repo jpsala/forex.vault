@@ -26,5 +26,20 @@
       ],
       "key": "Q"
     }
+  ],
+  "obsidian-excalidraw-plugin:fullscreen": [],
+  "obsidian-fullscreen-plugin:fullscreen-focus": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "obsidian-excalidraw-plugin:jp-forex": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
   ]
 }
