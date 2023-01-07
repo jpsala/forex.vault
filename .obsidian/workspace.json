@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "df86fb516b6d4482",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8c2eda43ed702f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76d6512370af5ffc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Backtesting/K4xElite/Live NY Sessions.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c9b80e8a5a46ee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1afe3d58c0bdb86d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4909b4c7d68367e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e006b5bc8c53aeac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "beaf223413b279d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "daa7177016fea15b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c78fb13b9119639",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cc743baa1003ff2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f2c09f24aa77c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f431ebd7a2f728bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backtesting/K4xElite/Live NY Sessions.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca479a63e2a2ea74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backtesting/K4xElite/Live NY Sessions.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f83ce4e1ea506fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "134f9e637905d426",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backtesting/K4xElite/Live NY Sessions.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "73a623be241ba109",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "585be7b1eb465245",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b1f954fc73f36c2",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "707bf5ca7e828016",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-gallery:Gallery": false,
+      "open-vscode:VSCode": false,
+      "obsidian-dropbox-backups:Backup to Dropbox": false,
+      "obsidian-translator:Translate": false,
+      "obsidian-camera:Obsidian Camera": false,
+      "hidden-folder-obsidian:Hidden Folders": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "76d6512370af5ffc",
+  "lastOpenFiles": [
+    "Excalidraw/draw_230107-153717.md",
+    "Backtesting/K4xElite/Live NY Sessions.excalidraw.md",
+    "Backtesting/K4xElite/Live NY Sessions.md",
+    "Backtesting/draw_230107-152015.md",
+    "templates/Daily.md",
+    "Excalidraw/draw_230107-143159.md",
+    "Excalidraw/draw_230107-143022.md",
+    "Excalidraw/draw_230107-143157.md",
+    "Excalidraw/draw_230107-143112.md",
+    "Untitled.md"
+  ]
+}
