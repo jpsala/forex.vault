@@ -46,5 +46,7 @@
   "obsidian-audio-notes",
   "obsidian-dynbedded",
   "obsidian-git",
-  "obsidian-command-alias-plugin"
+  "obsidian-command-alias-plugin",
+  "obsidian-textgenerator-plugin",
+  "taskbone-ocr-plugin"
 ]
