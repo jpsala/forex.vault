@@ -8,29 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85d736184ccac872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K4xElite/Content.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21a193b5abc97990",
+            "id": "a839eb8e9791169b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "K4xElite/supply&demand.md"
+                "file": "Excalidraw/EURUSD_draw_230109-140213.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K4xElite/supply&demand.md",
+                "file": "Excalidraw/EURUSD_draw_230109-140213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K4xElite/supply&demand.md",
+                "file": "Excalidraw/EURUSD_draw_230109-140213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K4xElite/supply&demand.md"
+                "file": "Excalidraw/EURUSD_draw_230109-140213.md"
               }
             }
           },
@@ -207,7 +194,6 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "remotely-save:Remotely Save": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
@@ -219,22 +205,23 @@
       "obsidian-camera:Obsidian Camera": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "cmdr: Create a new drawing": false,
+      "remotely-save:Remotely Save": false,
       "hidden-folder-obsidian:Hidden Folders": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "cmdr: Create a new drawing": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "21a193b5abc97990",
+  "active": "a839eb8e9791169b",
   "lastOpenFiles": [
+    "Entries/230109135003.md",
+    "Excalidraw/EURUSD_draw_230109-092254.md",
+    "Excalidraw/draw_230109-140104.md",
+    "Entries/230109094601.md",
+    "Entries/EURUSD/draw_230109-135942.md",
+    "Entries/EURUSD.md",
     "K4xElite/supply&demand.md",
     "K4xElite/supply&demand 1.md",
     "Excalidraw/draw_230108-200103.md",
-    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
-    "K4xElite/Content.md",
-    "K4xElite/putting it all together.md",
-    "K4xElite/Entrie types.md",
-    "K4xElite/Live NY trade.md",
-    "test.md",
-    "templates/Forex.md"
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md"
   ]
 }

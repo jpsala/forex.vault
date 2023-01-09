@@ -1,0 +1,12 @@
+{
+  "hotkeys": [
+    {
+      "command": "obsidian-excalidraw-plugin:excalidraw-autocreate-on-current",
+      "chords": [
+        "A-Period",
+        "KeyN",
+        "KeyD"
+      ]
+    }
+  ]
+}

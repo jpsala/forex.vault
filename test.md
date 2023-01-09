@@ -1,3 +1,15 @@
+---
+test1: "hola"
+test2: "chau"
+---
+``` dataviewjs
+const sermonList = dv
+	.pages('"K4xElite"').file
+	
+
+```
+
+
 ![[Pasted image 20230108103002.png]]
 
  The image is a map of the United States, with each state represented by a different color. The map is labeled with the names of each state, along with its corresponding abbreviation.
