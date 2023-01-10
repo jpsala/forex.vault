@@ -8,16 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a839eb8e9791169b",
+            "id": "c2685d24620cbfec",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/EURUSD_draw_230109-140213.md"
+                "file": "Entries/230109094601.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f01558fc4fbb156a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entries/230109135003.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7da33d20ef615b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f409228db46095e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enero.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "rating",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/EURUSD_draw_230109-140213.md",
+                "file": "Entries/230109135003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/EURUSD_draw_230109-140213.md",
+                "file": "Entries/230109135003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/EURUSD_draw_230109-140213.md"
+                "file": "Entries/230109135003.md"
               }
             }
           },
@@ -174,13 +213,21 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "5628e63feacee942",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -211,17 +258,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a839eb8e9791169b",
+  "active": "f01558fc4fbb156a",
   "lastOpenFiles": [
+    "Enero.md",
     "Entries/230109135003.md",
+    "Entries/230109094601.md",
+    "Excalidraw/EURUSD_draw_230109-140213.md",
+    "hotkeys.md",
     "Excalidraw/EURUSD_draw_230109-092254.md",
     "Excalidraw/draw_230109-140104.md",
-    "Entries/230109094601.md",
     "Entries/EURUSD/draw_230109-135942.md",
     "Entries/EURUSD.md",
-    "K4xElite/supply&demand.md",
-    "K4xElite/supply&demand 1.md",
-    "Excalidraw/draw_230108-200103.md",
-    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md"
+    "K4xElite/supply&demand.md"
   ]
 }

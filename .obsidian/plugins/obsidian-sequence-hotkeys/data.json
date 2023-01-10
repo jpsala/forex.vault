@@ -7,6 +7,21 @@
         "KeyN",
         "KeyD"
       ]
+    },
+    {
+      "command": "obsidian-audio-notes:create-new-audio-note-with-new-file",
+      "chords": [
+        "A-Period",
+        "KeyN",
+        "KeyA"
+      ]
+    },
+    {
+      "command": "obsidian-excalidraw-plugin:Downloaded/Zoom to Fit Selected Elements",
+      "chords": [
+        "C-Period",
+        "C-KeyZ"
+      ]
     }
   ]
 }
