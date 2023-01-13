@@ -47,5 +47,7 @@
   "obsidian-command-alias-plugin",
   "obsidian-textgenerator-plugin",
   "taskbone-ocr-plugin",
-  "obsidian-sequence-hotkeys"
+  "obsidian-sequence-hotkeys",
+  "find-unlinked-files",
+  "obsidian-file-cleaner"
 ]

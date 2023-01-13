@@ -17,10 +17,9 @@
       ]
     },
     {
-      "command": "obsidian-excalidraw-plugin:Downloaded/Zoom to Fit Selected Elements",
+      "command": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current",
       "chords": [
-        "C-Period",
-        "C-KeyZ"
+        "C-S-KeyX"
       ]
     }
   ]

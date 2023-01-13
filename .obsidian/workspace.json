@@ -4,59 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "52ff09a998b3f4bb",
+        "id": "3f886b5815458c05",
         "type": "tabs",
         "children": [
           {
-            "id": "c2685d24620cbfec",
+            "id": "77728abe3ec53a10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e18ada82c0ff1cbc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "Entries/230109094601.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/EURJPY-2301121527_draw_230112-152712.md"
               }
             }
           },
           {
-            "id": "f01558fc4fbb156a",
+            "id": "c9ef4a65a34240c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Entries/230109135003.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7da33d20ef615b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enero.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f409228db46095e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enero.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/EURJPY-2301121527_draw_230112-152712 1.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rating",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,11 +98,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 204.5
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -138,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entries/230109135003.md",
+                "file": "Excalidraw/EURJPY-2301121527_draw_230112-152712 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entries/230109135003.md",
+                "file": "Excalidraw/EURJPY-2301121527_draw_230112-152712 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entries/230109135003.md"
+                "file": "Excalidraw/EURJPY-2301121527_draw_230112-152712 1.md"
               }
             }
           },
@@ -254,21 +235,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "cmdr: Create a new drawing": false,
       "remotely-save:Remotely Save": false,
+      "obsidian-file-cleaner:Clean files": false,
       "hidden-folder-obsidian:Hidden Folders": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f01558fc4fbb156a",
+  "active": "c9ef4a65a34240c7",
   "lastOpenFiles": [
-    "Enero.md",
-    "Entries/230109135003.md",
-    "Entries/230109094601.md",
-    "Excalidraw/EURUSD_draw_230109-140213.md",
-    "hotkeys.md",
-    "Excalidraw/EURUSD_draw_230109-092254.md",
-    "Excalidraw/draw_230109-140104.md",
-    "Entries/EURUSD/draw_230109-135942.md",
-    "Entries/EURUSD.md",
-    "K4xElite/supply&demand.md"
+    "Excalidraw/EURJPY-2301121527_draw_230112-152712.md",
+    "Excalidraw/EURJPY-2301121527_draw_230112-152712.png",
+    "Excalidraw/EURJPY-2301121527_draw_230112-152712.svg",
+    "Entries/EURJPY-2301111931.md",
+    "Entries/EURJPY-2301121527.md",
+    "Excalidraw/EURJPY-2301111931_draw_230111-193132.md",
+    "templates/entry.md",
+    "K4xElite/Live NY trade.md",
+    "templates/Columns flex.md",
+    "templates/Daily.md"
   ]
 }
