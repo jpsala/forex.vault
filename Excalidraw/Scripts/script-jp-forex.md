@@ -27,4 +27,6 @@ elements.forEach(el => {
 
   lastEl = el
 });
+const api = ea.getExcalidrawAPI()
+api.selectElements([])
 await ea.addElementsToView(false,true);
