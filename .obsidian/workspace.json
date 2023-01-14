@@ -8,20 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77728abe3ec53a10",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e18ada82c0ff1cbc",
+            "id": "cef81bbc2c7829bd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/EURJPY-2301121527_draw_230112-152712.md"
+                "file": "pastedImages/Entry Type 2_draw_230113-234145.md"
+              }
+            }
+          },
+          {
+            "id": "a045d4c6f8ed6671",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "pastedImages/EURUSD-2301131251_draw_230113-125156.md"
+              }
+            }
+          },
+          {
+            "id": "911437ebe8febd16",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "pastedImages/Entries_K4xEliteDraw.md"
               }
             }
           },
@@ -31,12 +43,21 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/EURJPY-2301121527_draw_230112-152712 1.md"
+                "file": "pastedImages/EURJPY-2301130900_draw_230113-090009.md"
+              }
+            }
+          },
+          {
+            "id": "a01c626e2081de01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "pastedImages/NZDUSD-2301131017_draw_230113-101726.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/EURJPY-2301121527_draw_230112-152712 1.md",
+                "file": "pastedImages/Entry Type 2_draw_230113-234145.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/EURJPY-2301121527_draw_230112-152712 1.md",
+                "file": "pastedImages/Entry Type 2_draw_230113-234145.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/EURJPY-2301121527_draw_230112-152712 1.md"
+                "file": "pastedImages/Entry Type 2_draw_230113-234145.md"
               }
             }
           },
@@ -240,17 +260,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c9ef4a65a34240c7",
+  "active": "cef81bbc2c7829bd",
   "lastOpenFiles": [
-    "Excalidraw/EURJPY-2301121527_draw_230112-152712.md",
-    "Excalidraw/EURJPY-2301121527_draw_230112-152712.png",
-    "Excalidraw/EURJPY-2301121527_draw_230112-152712.svg",
-    "Entries/EURJPY-2301111931.md",
-    "Entries/EURJPY-2301121527.md",
-    "Excalidraw/EURJPY-2301111931_draw_230111-193132.md",
-    "templates/entry.md",
-    "K4xElite/Live NY trade.md",
-    "templates/Columns flex.md",
-    "templates/Daily.md"
+    "K4xElite/Entry Types/Entry Type 2.md",
+    "K4xElite/Entry Types/Entry Type 1.md",
+    "K4xElite/Entry Types.md",
+    "pastedImages/Entry Types_draw_230113-224354.md",
+    "K4xElite/Entrie types Old.md",
+    "pastedImages/EURJPY-2301132231_draw_230113-223848.md",
+    "Backtesting/EURJPY-2301132231.md",
+    "pastedImages/NZDUSD-2301131017_draw_230113-101726.md",
+    "pastedImages/EURJPY-2301130900_draw_230113-090009.md",
+    "pastedImages/Entries_K4xEliteDraw.md"
   ]
 }
