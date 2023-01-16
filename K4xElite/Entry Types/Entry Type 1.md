@@ -1,1 +1,1 @@
-![[Entry Types_draw_230113-224354]]
+![[Entry Types_draw_230113-224354.excalidraw]]

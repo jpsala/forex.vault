@@ -1,6 +1,6 @@
 {
   "folder": "Excalidraw",
-  "embedUseExcalidrawFolder": false,
+  "embedUseExcalidrawFolder": true,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
@@ -12,15 +12,15 @@
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": "_draw_",
   "drawingFilenameDateTime": "YYMMDD-HHmmss",
-  "useExcalidrawExtension": false,
+  "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "100%",
   "isLeftHanded": false,
-  "matchTheme": true,
-  "matchThemeAlways": true,
-  "matchThemeTrigger": true,
+  "matchTheme": false,
+  "matchThemeAlways": false,
+  "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",
   "zoomToFitOnOpen": false,
@@ -67,7 +67,182 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://excalidraw.com",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "rectangle",
+            "version": 152,
+            "versionNonce": 2115302469,
+            "isDeleted": false,
+            "id": "DoMAoGEYR8QyLlBEeaMyW",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 2,
+            "opacity": 100,
+            "angle": 0,
+            "x": 398.25,
+            "y": 149.0234375,
+            "strokeColor": "#000000",
+            "backgroundColor": "#868e96",
+            "width": 128,
+            "height": 77,
+            "seed": 199675531,
+            "groupIds": [
+              "E1rfs26woJcRb_KPPn88J"
+            ],
+            "roundness": {
+              "type": 3
+            },
+            "boundElements": [],
+            "updated": 1673829710772,
+            "link": null,
+            "locked": false
+          },
+          {
+            "type": "text",
+            "version": 121,
+            "versionNonce": 1360469643,
+            "isDeleted": false,
+            "id": "3F8U6O4F",
+            "fillStyle": "hachure",
+            "strokeWidth": 0.5,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": 456.75,
+            "y": 165.0234375,
+            "strokeColor": "#fff",
+            "backgroundColor": "transparent",
+            "width": 11,
+            "height": 45,
+            "seed": 630944677,
+            "groupIds": [
+              "E1rfs26woJcRb_KPPn88J"
+            ],
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1673829710772,
+            "link": null,
+            "locked": false,
+            "fontSize": 36,
+            "fontFamily": 1,
+            "text": "1",
+            "rawText": "1",
+            "baseline": 32,
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "containerId": null,
+            "originalText": "1"
+          }
+        ],
+        "id": "IovU6yxTDpLcRyP_75-Sr",
+        "created": 1673829715553
+      },
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "line",
+            "version": 161,
+            "versionNonce": 1236556210,
+            "isDeleted": false,
+            "id": "c2P73nE88xnSljdl-3_lS",
+            "fillStyle": "hachure",
+            "strokeWidth": 0.5,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": 619.310889923978,
+            "y": 4927.162643897474,
+            "strokeColor": "#000000",
+            "backgroundColor": "#868e96",
+            "width": 116.99255787083223,
+            "height": 0,
+            "seed": 1136918382,
+            "groupIds": [],
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1673722278357,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                116.99255787083223,
+                0
+              ]
+            ]
+          }
+        ],
+        "id": "bNVJwo8iyMq7DtEeitwtv",
+        "created": 1673722283373
+      },
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "arrow",
+            "version": 193,
+            "versionNonce": 1756837166,
+            "isDeleted": false,
+            "id": "zBMHS-NCwfQTnelD23t0O",
+            "fillStyle": "hachure",
+            "strokeWidth": 0.5,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": 827.1110011545438,
+            "y": 5137.546875,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "width": 86.88899884545617,
+            "height": 211.5,
+            "seed": 1586103918,
+            "groupIds": [],
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1673721928603,
+            "link": null,
+            "locked": false,
+            "startBinding": {
+              "elementId": "OyegbzML",
+              "focus": 0.20795724889492895,
+              "gap": 10
+            },
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": "triangle",
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                86.88899884545617,
+                -211.5
+              ]
+            ]
+          }
+        ],
+        "id": "L0fdslv3xfb1sLxj1K4yF",
+        "created": 1673721950728
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,

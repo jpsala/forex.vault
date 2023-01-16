@@ -4,60 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "3f886b5815458c05",
+        "id": "b71d2ba324d5dbb9",
         "type": "tabs",
         "children": [
           {
-            "id": "cef81bbc2c7829bd",
+            "id": "237a6f1346fb30b3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "pastedImages/Entry Type 2_draw_230113-234145.md"
+                "file": "Excalidraw/Entry Types_draw_230113-224354.excalidraw.md"
               }
             }
           },
           {
-            "id": "a045d4c6f8ed6671",
+            "id": "cd615c460d46f99b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "pastedImages/EURUSD-2301131251_draw_230113-125156.md"
+                "file": "Excalidraw/study_230115-225152.excalidraw.md"
               }
             }
           },
           {
-            "id": "911437ebe8febd16",
+            "id": "14040927a22889ad",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "pastedImages/Entries_K4xEliteDraw.md"
-              }
-            }
-          },
-          {
-            "id": "c9ef4a65a34240c7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "pastedImages/EURJPY-2301130900_draw_230113-090009.md"
-              }
-            }
-          },
-          {
-            "id": "a01c626e2081de01",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "pastedImages/NZDUSD-2301131017_draw_230113-101726.md"
+                "file": "Excalidraw/dudas.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#test",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,11 +100,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 227.5
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -139,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pastedImages/Entry Type 2_draw_230113-234145.md",
+                "file": "Excalidraw/study_230115-225152.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pastedImages/Entry Type 2_draw_230113-234145.md",
+                "file": "Excalidraw/study_230115-225152.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pastedImages/Entry Type 2_draw_230113-234145.md"
+                "file": "Excalidraw/study_230115-225152.excalidraw.md"
               }
             }
           },
@@ -260,17 +242,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "cef81bbc2c7829bd",
+  "active": "beaf223413b279d6",
   "lastOpenFiles": [
-    "K4xElite/Entry Types/Entry Type 2.md",
+    "Study/230115.md",
+    "Excalidraw/study_230115-225152.excalidraw.md",
+    "Excalidraw/Entry Types_draw_230113-224354.excalidraw.md",
     "K4xElite/Entry Types/Entry Type 1.md",
-    "K4xElite/Entry Types.md",
-    "pastedImages/Entry Types_draw_230113-224354.md",
-    "K4xElite/Entrie types Old.md",
-    "pastedImages/EURJPY-2301132231_draw_230113-223848.md",
-    "Backtesting/EURJPY-2301132231.md",
-    "pastedImages/NZDUSD-2301131017_draw_230113-101726.md",
-    "pastedImages/EURJPY-2301130900_draw_230113-090009.md",
-    "pastedImages/Entries_K4xEliteDraw.md"
+    "Excalidraw/230115_draw_230115-214017.excalidraw.md",
+    "K4xElite/Entry Types/230115.md",
+    "K4xElite/Entry Types/Entry Type 2.md",
+    "Excalidraw/EURGBP-2301152112_draw_230115-211231.excalidraw.md",
+    "Entries/EURGBP-2301152112.md",
+    "Excalidraw/230114_1209_draw_230114-121253.excalidraw.md"
   ]
 }
