@@ -4,16 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "52ff09a998b3f4bb",
+        "id": "3f886b5815458c05",
         "type": "tabs",
         "children": [
           {
-            "id": "21a193b5abc97990",
+            "id": "cef81bbc2c7829bd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "K4xElite/Entrie types.md"
+                "file": "pastedImages/Entry Type 2_draw_230113-234145.md"
+              }
+            }
+          },
+          {
+            "id": "a045d4c6f8ed6671",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "pastedImages/EURUSD-2301131251_draw_230113-125156.md"
+              }
+            }
+          },
+          {
+            "id": "911437ebe8febd16",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "pastedImages/Entries_K4xEliteDraw.md"
+              }
+            }
+          },
+          {
+            "id": "c9ef4a65a34240c7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "pastedImages/EURJPY-2301130900_draw_230113-090009.md"
+              }
+            }
+          },
+          {
+            "id": "a01c626e2081de01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "pastedImages/NZDUSD-2301131017_draw_230113-101726.md"
               }
             }
           }
@@ -54,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 204.5
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -99,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K4xElite/Entrie types.md",
+                "file": "pastedImages/Entry Type 2_draw_230113-234145.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K4xElite/Entrie types.md",
+                "file": "pastedImages/Entry Type 2_draw_230113-234145.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K4xElite/Entrie types.md"
+                "file": "pastedImages/Entry Type 2_draw_230113-234145.md"
               }
             }
           },
@@ -174,13 +214,21 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "5628e63feacee942",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,7 +242,6 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "remotely-save:Remotely Save": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
@@ -204,21 +251,26 @@
       "obsidian-dropbox-backups:Backup to Dropbox": false,
       "obsidian-translator:Translate": false,
       "obsidian-camera:Obsidian Camera": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "cmdr: Create a new drawing": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-file-cleaner:Clean files": false,
       "hidden-folder-obsidian:Hidden Folders": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "21a193b5abc97990",
+  "active": "cef81bbc2c7829bd",
   "lastOpenFiles": [
-    "K4xElite/Live NY trade.md",
-    "K4xElite/putting it all together.md",
-    "K4xElite/Entrie types.md",
-    "Pasted Image 20230107195744_900.png",
-    "Backtesting/K4xElite/Live NY Sessions.excalidraw.md",
-    "Excalidraw/Scripts/jp-forex-set-element-size.md",
-    "Excalidraw/draw_230107-153717.md",
-    "Backtesting/K4xElite/Live NY Sessions.md",
-    "Backtesting/draw_230107-152015.md",
-    "templates/Daily.md"
+    "K4xElite/Entry Types/Entry Type 2.md",
+    "K4xElite/Entry Types/Entry Type 1.md",
+    "K4xElite/Entry Types.md",
+    "pastedImages/Entry Types_draw_230113-224354.md",
+    "K4xElite/Entrie types Old.md",
+    "pastedImages/EURJPY-2301132231_draw_230113-223848.md",
+    "Backtesting/EURJPY-2301132231.md",
+    "pastedImages/NZDUSD-2301131017_draw_230113-101726.md",
+    "pastedImages/EURJPY-2301130900_draw_230113-090009.md",
+    "pastedImages/Entries_K4xEliteDraw.md"
   ]
 }

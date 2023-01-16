@@ -29,7 +29,6 @@
   "consistent-attachments-and-links",
   "obsidian-advanced-new-file",
   "obsidian-text-expander-js",
-  "leader-hotkeys-obsidian",
   "obsidian-quickshare",
   "obsidian-dropbox-backups",
   "obsidian-translator",
@@ -40,11 +39,15 @@
   "deepl",
   "obsidian-share-as-gist",
   "obsidian-min3ditorhotkeys-plugin",
-  "obsidian-hotkeys-chords",
   "hidden-folder-obsidian",
   "obsidian-toggle-meta-yaml-plugin",
   "obsidian-audio-notes",
   "obsidian-dynbedded",
   "obsidian-git",
-  "obsidian-command-alias-plugin"
+  "obsidian-command-alias-plugin",
+  "obsidian-textgenerator-plugin",
+  "taskbone-ocr-plugin",
+  "obsidian-sequence-hotkeys",
+  "find-unlinked-files",
+  "obsidian-file-cleaner"
 ]

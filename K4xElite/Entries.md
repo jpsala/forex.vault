@@ -1,1 +1,1 @@
-![[Entries_K4xEliteDraw.excalidraw]]
+![[Entries_K4xEliteDraw]]

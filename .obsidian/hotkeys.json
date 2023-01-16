@@ -41,5 +41,31 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-excalidraw-plugin:script-jp-forex": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F1"
+    }
+  ],
+  "file-explorer:open": [],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F1"
+    }
   ]
 }

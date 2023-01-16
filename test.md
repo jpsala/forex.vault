@@ -2,8 +2,6 @@
 test1: "hola"
 test2: "chau"
 ---
-![[test_draw_230114-132131.excalidraw]]
-![[test_draw_230114-131945]]
 ``` dataviewjs
 const sermonList = dv
 	.pages('"K4xElite"').file

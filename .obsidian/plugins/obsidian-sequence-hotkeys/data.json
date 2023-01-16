@@ -9,11 +9,17 @@
       ]
     },
     {
-      "command": "obsidian-excalidraw-plugin:Downloaded/Convert selected text elements to sticky notes",
+      "command": "obsidian-audio-notes:create-new-audio-note-with-new-file",
       "chords": [
         "A-Period",
-        "KeyS",
-        "KeyN"
+        "KeyN",
+        "KeyA"
+      ]
+    },
+    {
+      "command": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current",
+      "chords": [
+        "C-S-KeyX"
       ]
     }
   ]
