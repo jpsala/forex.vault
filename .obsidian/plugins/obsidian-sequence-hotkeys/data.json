@@ -1,0 +1,20 @@
+{
+  "hotkeys": [
+    {
+      "command": "obsidian-excalidraw-plugin:excalidraw-autocreate-on-current",
+      "chords": [
+        "A-Period",
+        "KeyN",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "obsidian-excalidraw-plugin:Downloaded/Convert selected text elements to sticky notes",
+      "chords": [
+        "A-Period",
+        "KeyS",
+        "KeyN"
+      ]
+    }
+  ]
+}
