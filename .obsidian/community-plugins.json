@@ -49,5 +49,6 @@
   "taskbone-ocr-plugin",
   "obsidian-sequence-hotkeys",
   "find-unlinked-files",
-  "obsidian-file-cleaner"
+  "obsidian-file-cleaner",
+  "obsidian-sidebar-expand-on-hover"
 ]

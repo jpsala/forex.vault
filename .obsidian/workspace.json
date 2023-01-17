@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b71d2ba324d5dbb9",
+        "id": "cbf26bc0b2096d8d",
         "type": "tabs",
         "children": [
           {
-            "id": "237a6f1346fb30b3",
+            "id": "4d65454b00cda236",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Entry Types_draw_230113-224354.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "cd615c460d46f99b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/study_230115-225152.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "14040927a22889ad",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/dudas.excalidraw.md"
+                "file": "Excalidraw/EURJPY-230116_draw_230116-184427.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#duda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 252,
+    "collapsed": true
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -121,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/study_230115-225152.excalidraw.md",
+                "file": "Excalidraw/EURJPY-230116_draw_230116-184427.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,20 +118,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/study_230115-225152.excalidraw.md",
+                "file": "Excalidraw/EURJPY-230116_draw_230116-184427.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6f83ce4e1ea506fe",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -161,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/study_230115-225152.excalidraw.md"
+                "file": "Excalidraw/EURJPY-230116_draw_230116-184427.excalidraw.md"
               }
             }
           },
@@ -206,11 +175,28 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
+      },
+      {
+        "id": "cb4fb23b2c44c44f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f83ce4e1ea506fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 252,
     "collapsed": true
   },
   "left-ribbon": {
@@ -239,20 +225,21 @@
       "remotely-save:Remotely Save": false,
       "obsidian-file-cleaner:Clean files": false,
       "hidden-folder-obsidian:Hidden Folders": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "beaf223413b279d6",
+  "active": "4d65454b00cda236",
   "lastOpenFiles": [
+    "Study/EURJPY-230116.md",
+    "Excalidraw/EURJPY-230116_draw_230116-184427.excalidraw.md",
     "Study/230115.md",
-    "Excalidraw/study_230115-225152.excalidraw.md",
+    "templates/study.md",
     "Excalidraw/Entry Types_draw_230113-224354.excalidraw.md",
-    "K4xElite/Entry Types/Entry Type 1.md",
-    "Excalidraw/230115_draw_230115-214017.excalidraw.md",
-    "K4xElite/Entry Types/230115.md",
-    "K4xElite/Entry Types/Entry Type 2.md",
-    "Excalidraw/EURGBP-2301152112_draw_230115-211231.excalidraw.md",
-    "Entries/EURGBP-2301152112.md",
-    "Excalidraw/230114_1209_draw_230114-121253.excalidraw.md"
+    "K4xElite/Live NY trade.md",
+    "Excalidraw/dudas.excalidraw.md",
+    "templates/entry.md",
+    "Excalidraw/EURJPY-2301161109_draw_230116-110946.excalidraw.md",
+    "Entries/EURJPY-2301161109.md"
   ]
 }
