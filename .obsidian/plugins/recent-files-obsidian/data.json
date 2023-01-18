@@ -29,10 +29,6 @@
       "path": "mimi.md"
     },
     {
-      "basename": "entry",
-      "path": "templates/entry.md"
-    },
-    {
       "basename": "EURUSD-230117.1512",
       "path": "Entries/EURUSD-230117.1512.md"
     },
@@ -195,10 +191,6 @@
     {
       "basename": "Entry Type 2",
       "path": "K4xElite/Entry Types/Entry Type 2.md"
-    },
-    {
-      "basename": "EURGBP-2301152112_draw_230115-211231.excalidraw",
-      "path": "Excalidraw/EURGBP-2301152112_draw_230115-211231.excalidraw.md"
     }
   ],
   "omittedPaths": [],

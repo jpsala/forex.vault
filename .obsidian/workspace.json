@@ -18,6 +18,14 @@
             }
           },
           {
+            "id": "98a523bbf194955f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "d64b73b5141e3386",
             "type": "leaf",
             "state": {
@@ -29,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -113,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entries/Draws/AUDUSD-230117.2327.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Entries/Draws/AUDUSD-230117.2327.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +191,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entries/Draws/AUDUSD-230117.2327.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,17 +250,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5ecf1904d8a9bacb",
+  "active": "98a523bbf194955f",
   "lastOpenFiles": [
-    "Entries/AUDUSD-230117.2327.md",
+    "conflict-files-obsidian-git.md",
     "Entries/Draws/AUDUSD-230117.2327.excalidraw.md",
+    "Entries/AUDUSD-230117.2327.md",
     "Entries/Draws/AUDUSD-230117.2146.excalidraw.md",
     "Entries/AUDUSD-230117.2146.md",
     "Entries/Draws/EURUSD-230117.1512.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
     "mimi.md",
     "templates/entry.md",
-    "Entries/EURUSD-230117.1512.md",
-    "[Entries](Entries.md)/Draws/TEST-230117.1458.excalidraw.md"
+    "Entries/EURUSD-230117.1512.md"
   ]
 }
