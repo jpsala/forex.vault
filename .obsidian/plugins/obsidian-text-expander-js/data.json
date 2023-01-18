@@ -15,7 +15,14 @@
     "visible": true,
     "groups": {
       "Group 01": {
-        "buttons": []
+        "buttons": [
+          {
+            "display": "asdf",
+            "shortcut": "asdf",
+            "help": "adsf",
+            "parameterData": []
+          }
+        ]
       },
       "Group 02": {
         "buttons": []

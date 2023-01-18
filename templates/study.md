@@ -1,14 +1,19 @@
 <%*
-	const pair = await tp.system.prompt("Pair");
-	console.log(tp.file)
-  await tp.file.move("Study/" + pair + '-' + tp.date.now("YYMMDD"));
-%>
----
-datetime: <% tp.date.now("YYYY-MM-DD ddd HH:mm:ss") %>
-doc-type: forex
-<% 'Tags:' %> forex, study
-pair: <% pair %>
-datetime-chart-start: 
----
+  const pair = (await tp.system.prompt("Pair")).toUpperCase();
+  const title = pair + "." + tp.date.now("YYMMDD.HHmm") + ".study";
+  const folder = 'Study/Draws';
+  const ea = ExcalidrawAutomate;
+  ea.reset();
+  ea.style.strokeColor = "red";
+  ea.addText(0,0,"#study");
+  ea.addText(0,25,"#" + pair);
+  await ea.create({
+    filename : title,
+    foldername : folder,
+    templatePath: 'Excalidraw/Template.excalidraw',
+    onNewPane : false
+  });
+  
+  await this.app.workspace.activeLeaf.openFile( folder+"/"+title );
 
-<% tp.file.cursor() %>
+%>

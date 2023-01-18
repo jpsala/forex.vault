@@ -6,6 +6,14 @@
         "Shift"
       ],
       "key": "Delete"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "Delete"
     }
   ],
   "editor:delete-paragraph": [],
@@ -50,14 +58,7 @@
       "key": "E"
     }
   ],
-  "file-explorer:reveal-active-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F1"
-    }
-  ],
+  "file-explorer:reveal-active-file": [],
   "file-explorer:open": [],
   "open-with-default-app:show": [
     {
@@ -82,6 +83,22 @@
         "Alt"
       ],
       "key": "ArrowLeft"
+    }
+  ],
+  "file-tree-alternative:reveal-active-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F1"
+    }
+  ],
+  "obsidian-excalidraw-plugin:Downloaded/Fixed vertical distance": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
     }
   ]
 }

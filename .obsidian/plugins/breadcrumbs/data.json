@@ -2,7 +2,7 @@
   "addDendronNotes": false,
   "addDateNotes": false,
   "aliasesInIndex": false,
-  "alphaSortAsc": true,
+  "alphaSortAsc": false,
   "altLinkFields": [],
   "CSVPaths": "",
   "createIndexIndent": "  ",

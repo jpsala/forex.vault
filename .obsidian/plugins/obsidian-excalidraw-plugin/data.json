@@ -266,6 +266,30 @@
         "description": "Padding between the bounding box of the selected elements, and the box the script creates"
       },
       "Remember last padding?": false
+    },
+    "Downloaded/Fixed spacing": {
+      "Prompt for spacing?": true,
+      "Default spacing": {
+        "value": 10,
+        "description": "Fixed horizontal spacing between elements"
+      },
+      "Remember last spacing?": false
+    },
+    "script-Fixed vertical distance": {
+      "Prompt for spacing?": true,
+      "Default spacing": {
+        "value": 10,
+        "description": "Fixed vertical spacing between elements"
+      },
+      "Remember last spacing?": false
+    },
+    "Downloaded/Fixed vertical distance": {
+      "Prompt for spacing?": true,
+      "Default spacing": {
+        "value": 10,
+        "description": "Fixed vertical spacing between elements"
+      },
+      "Remember last spacing?": false
     }
   },
   "defaultTrayMode": true,
