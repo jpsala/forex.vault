@@ -21,6 +21,18 @@
       "chords": [
         "C-S-KeyX"
       ]
+    },
+    {
+      "command": "obsidian-excalidraw-plugin:script-jp-align-horiz",
+      "chords": [
+        "A-KeyA"
+      ]
+    },
+    {
+      "command": "obsidian-excalidraw-plugin:Downloaded/Fixed vertical distance",
+      "chords": [
+        "A-KeyV"
+      ]
     }
   ]
 }

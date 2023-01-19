@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5bba13f41f10b425",
+        "id": "1f05745ac913367c",
         "type": "tabs",
         "children": [
           {
-            "id": "027029bfe62a7fde",
+            "id": "7e778df29e37cbca",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -92,6 +92,7 @@
       {
         "id": "0f2c09f24aa77c84",
         "type": "tabs",
+        "dimension": 23.46041055718475,
         "children": [
           {
             "id": "f431ebd7a2f728bf",
@@ -100,36 +101,13 @@
               "type": "backlink",
               "state": {
                 "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ca479a63e2a2ea74",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6f83ce4e1ea506fe",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -166,7 +144,14 @@
               "type": "BC-matrix",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "122da666dfae9f53",
+        "type": "tabs",
+        "dimension": 19.550342130987293,
+        "children": [
           {
             "id": "707bf5ca7e828016",
             "type": "leaf",
@@ -175,12 +160,49 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
+      },
+      {
+        "id": "1cc59b3161ef865c",
+        "type": "tabs",
+        "dimension": 24.144672531769306,
+        "children": [
+          {
+            "id": "ca479a63e2a2ea74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cb4fb23b2c44c44f",
+        "type": "tabs",
+        "dimension": 32.84457478005865,
+        "children": [
+          {
+            "id": "6f83ce4e1ea506fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,34 +216,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "remotely-save:Remotely Save": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-gallery:Gallery": false,
       "open-vscode:VSCode": false,
-      "obsidian-dropbox-backups:Backup to Dropbox": false,
       "obsidian-translator:Translate": false,
       "obsidian-camera:Obsidian Camera": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "cmdr: Create a new drawing": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "audio-recorder:Start/stop recording": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "omnisearch:Omnisearch": false,
       "hidden-folder-obsidian:Hidden Folders": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3b1f954fc73f36c2",
+  "active": "7e778df29e37cbca",
   "lastOpenFiles": [
-    "Excalidraw/audusd-2301180323_draw_230118-032326.md",
-    "Entries/audusd-2301180323.md",
-    "Excalidraw/study_230115-225152.excalidraw.md",
-    "Study/230115.md",
-    "Excalidraw/Template.excalidraw.md",
-    "Study/230114_1209.md",
-    "pastedImages/Entry Type 2_draw_230113-234145.md",
-    "K4xElite/Entry Types/Entry Type 2.md",
-    "Excalidraw/EURJPY-2301122249_draw_230112-225019.md",
-    "Entries/EURJPY-2301122249.md"
+    "Untitled 11.md",
+    "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
+    "Excalidraw/Scripts/script-jp-align-horiz.svg",
+    "Study/Draws/AUDUSD.230118.2007.study.excalidraw.md",
+    "templates/study.md",
+    "Untitled 10.md",
+    "Study/Draws/EURNZD.230118.1927.study_0.excalidraw.md",
+    "Study/Draws/EURNZD.230118.1927.study.excalidraw.md",
+    "Study/Draws/EURNZD.230118.1926.study_0.excalidraw.md",
+    "Study/Draws/EURNZD.230118.1926.study.excalidraw.md"
   ]
 }

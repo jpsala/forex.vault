@@ -26,11 +26,9 @@
   "obsidian-better-command-palette",
   "open-vscode",
   "obsidian-list-callouts",
-  "consistent-attachments-and-links",
   "obsidian-advanced-new-file",
   "obsidian-text-expander-js",
   "obsidian-quickshare",
-  "obsidian-dropbox-backups",
   "obsidian-translator",
   "obsidian-bulk-rename-plugin",
   "obsidian-search-everywhere-plugin",
@@ -49,5 +47,6 @@
   "taskbone-ocr-plugin",
   "obsidian-sequence-hotkeys",
   "find-unlinked-files",
-  "obsidian-file-cleaner"
+  "obsidian-file-cleaner",
+  "obsidian-sidebar-expand-on-hover"
 ]
