@@ -24,7 +24,7 @@ if(!settings["Default spacing"]) {
 		value: 10,
 		description: "Fixed vertical spacing between elements"
 	  },
-	  "Remember last spacing?": false
+	  "Remember last spacing?": true
 	};
 	ea.setScriptSettings(settings);
 }

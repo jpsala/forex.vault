@@ -4,56 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f886b5815458c05",
+        "id": "5bba13f41f10b425",
         "type": "tabs",
         "children": [
           {
-            "id": "cef81bbc2c7829bd",
+            "id": "027029bfe62a7fde",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "pastedImages/Entry Type 2_draw_230113-234145.md"
-              }
-            }
-          },
-          {
-            "id": "a045d4c6f8ed6671",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "pastedImages/EURUSD-2301131251_draw_230113-125156.md"
-              }
-            }
-          },
-          {
-            "id": "911437ebe8febd16",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "pastedImages/Entries_K4xEliteDraw.md"
-              }
-            }
-          },
-          {
-            "id": "c9ef4a65a34240c7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "pastedImages/EURJPY-2301130900_draw_230113-090009.md"
-              }
-            }
-          },
-          {
-            "id": "a01c626e2081de01",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "pastedImages/NZDUSD-2301131017_draw_230113-101726.md"
+                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md"
               }
             }
           }
@@ -94,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#test",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 200
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -139,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pastedImages/Entry Type 2_draw_230113-234145.md",
+                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pastedImages/Entry Type 2_draw_230113-234145.md",
+                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pastedImages/Entry Type 2_draw_230113-234145.md"
+                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md"
               }
             }
           },
@@ -214,25 +174,20 @@
               "type": "BC-tree",
               "state": {}
             }
-          },
-          {
-            "id": "5628e63feacee942",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr: Create a new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-file-cleaner:Clean files": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -242,6 +197,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
@@ -251,26 +207,21 @@
       "obsidian-dropbox-backups:Backup to Dropbox": false,
       "obsidian-translator:Translate": false,
       "obsidian-camera:Obsidian Camera": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "cmdr: Create a new drawing": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-file-cleaner:Clean files": false,
       "hidden-folder-obsidian:Hidden Folders": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "cef81bbc2c7829bd",
+  "active": "3b1f954fc73f36c2",
   "lastOpenFiles": [
+    "Excalidraw/audusd-2301180323_draw_230118-032326.md",
+    "Entries/audusd-2301180323.md",
+    "Excalidraw/study_230115-225152.excalidraw.md",
+    "Study/230115.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Study/230114_1209.md",
+    "pastedImages/Entry Type 2_draw_230113-234145.md",
     "K4xElite/Entry Types/Entry Type 2.md",
-    "K4xElite/Entry Types/Entry Type 1.md",
-    "K4xElite/Entry Types.md",
-    "pastedImages/Entry Types_draw_230113-224354.md",
-    "K4xElite/Entrie types Old.md",
-    "pastedImages/EURJPY-2301132231_draw_230113-223848.md",
-    "Backtesting/EURJPY-2301132231.md",
-    "pastedImages/NZDUSD-2301131017_draw_230113-101726.md",
-    "pastedImages/EURJPY-2301130900_draw_230113-090009.md",
-    "pastedImages/Entries_K4xEliteDraw.md"
+    "Excalidraw/EURJPY-2301122249_draw_230112-225019.md",
+    "Entries/EURJPY-2301122249.md"
   ]
 }
