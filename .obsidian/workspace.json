@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c30374528904b1e6",
+        "id": "1f05745ac913367c",
         "type": "tabs",
         "children": [
           {
-            "id": "5ecf1904d8a9bacb",
+            "id": "7e778df29e37cbca",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Entries/Draws/AUDUSD-230117.2327.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "98a523bbf194955f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d64b73b5141e3386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
-                "mode": "source",
-                "source": false
+                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md"
+              }
             }
           },
           {
@@ -191,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -229,13 +212,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-gallery:Gallery": false,
       "open-vscode:VSCode": false,
       "obsidian-translator:Translate": false,
@@ -246,21 +225,25 @@
       "remotely-save:Remotely Save": false,
       "obsidian-file-cleaner:Clean files": false,
       "audio-recorder:Start/stop recording": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "omnisearch:Omnisearch": false,
       "hidden-folder-obsidian:Hidden Folders": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "98a523bbf194955f",
+  "active": "7e778df29e37cbca",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Entries/Draws/AUDUSD-230117.2327.excalidraw.md",
-    "Entries/AUDUSD-230117.2327.md",
-    "Entries/Draws/AUDUSD-230117.2146.excalidraw.md",
-    "Entries/AUDUSD-230117.2146.md",
-    "Entries/Draws/EURUSD-230117.1512.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
-    "mimi.md",
-    "templates/entry.md",
-    "Entries/EURUSD-230117.1512.md"
+    "Untitled 11.md",
+    "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
+    "Excalidraw/Scripts/script-jp-align-horiz.svg",
+    "Study/Draws/AUDUSD.230118.2007.study.excalidraw.md",
+    "templates/study.md",
+    "Untitled 10.md",
+    "Study/Draws/EURNZD.230118.1927.study_0.excalidraw.md",
+    "Study/Draws/EURNZD.230118.1927.study.excalidraw.md",
+    "Study/Draws/EURNZD.230118.1926.study_0.excalidraw.md",
+    "Study/Draws/EURNZD.230118.1926.study.excalidraw.md"
   ]
 }

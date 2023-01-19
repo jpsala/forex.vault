@@ -260,20 +260,20 @@
       }
     },
     "Downloaded/Box Each Selected Groups": {
-      "Prompt for padding?": true,
+      "Prompt for padding?": false,
       "Default padding": {
-        "value": 10,
+        "value": 20,
         "description": "Padding between the bounding box of the selected elements, and the box the script creates"
       },
-      "Remember last padding?": false
+      "Remember last padding?": true
     },
     "Downloaded/Fixed spacing": {
-      "Prompt for spacing?": true,
+      "Prompt for spacing?": false,
       "Default spacing": {
         "value": 10,
         "description": "Fixed horizontal spacing between elements"
       },
-      "Remember last spacing?": false
+      "Remember last spacing?": true
     },
     "script-Fixed vertical distance": {
       "Prompt for spacing?": true,
@@ -284,16 +284,16 @@
       "Remember last spacing?": false
     },
     "Downloaded/Fixed vertical distance": {
-      "Prompt for spacing?": true,
+      "Prompt for spacing?": false,
       "Default spacing": {
-        "value": 10,
+        "value": 20,
         "description": "Fixed vertical spacing between elements"
       },
-      "Remember last spacing?": false
+      "Remember last spacing?": true
     }
   },
-  "defaultTrayMode": true,
-  "previousRelease": "1.8.8",
+  "defaultTrayMode": false,
+  "previousRelease": "1.8.10",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
