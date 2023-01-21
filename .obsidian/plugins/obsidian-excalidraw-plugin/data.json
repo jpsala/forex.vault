@@ -278,7 +278,7 @@
     "script-Fixed vertical distance": {
       "Prompt for spacing?": true,
       "Default spacing": {
-        "value": 10,
+        "value": 1,
         "description": "Fixed vertical spacing between elements"
       },
       "Remember last spacing?": false
@@ -290,6 +290,14 @@
         "description": "Fixed vertical spacing between elements"
       },
       "Remember last spacing?": true
+    },
+    "Fixed vertical distance": {
+      "Prompt for spacing?": false,
+      "Default spacing": {
+        "value": 20,
+        "description": "Fixed vertical spacing between elements"
+      },
+      "Remember last spacing?": false
     }
   },
   "defaultTrayMode": false,

@@ -9,7 +9,7 @@
   ea.reset();
   ea.style.strokeColor = "red";
   ea.addText(300,0,"#entry");
-  ea.addText(300,25,"#" + pair);
+  ea.addText(300,25,"#pair/" + pair);
   
   await ea.create({
     filename,

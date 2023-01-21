@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f05745ac913367c",
+        "id": "36119137fa482bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "7e778df29e37cbca",
+            "id": "e7cf3e3268fb62ce",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md"
+                "file": "Study/Draws/EURJPY.230120.1816.study.excalidraw.md"
               }
             }
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "230115_draw_230115-214017",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 252,
+    "collapsed": true
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
+                "file": "Study/Draws/EURJPY.230120.1816.study.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md"
+                "file": "Study/Draws/EURJPY.230120.1816.study.excalidraw.md"
               }
             }
           },
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
+                "file": "Study/Draws/EURJPY.230120.1816.study.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -233,17 +234,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7e778df29e37cbca",
+  "active": "e7cf3e3268fb62ce",
   "lastOpenFiles": [
-    "Untitled 11.md",
-    "Study/Draws/AUDUSD.230118.2010.study.excalidraw.md",
-    "Excalidraw/Scripts/script-jp-align-horiz.svg",
-    "Study/Draws/AUDUSD.230118.2007.study.excalidraw.md",
-    "templates/study.md",
-    "Untitled 10.md",
-    "Study/Draws/EURNZD.230118.1927.study_0.excalidraw.md",
-    "Study/Draws/EURNZD.230118.1927.study.excalidraw.md",
-    "Study/Draws/EURNZD.230118.1926.study_0.excalidraw.md",
-    "Study/Draws/EURNZD.230118.1926.study.excalidraw.md"
+    "templates/Study.md",
+    "Study/Draws/EURJPY.230120.1806.study.excalidraw.md",
+    "Untitled 2.md",
+    "templates/Draw.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Study/Draws/EURJPY.230120.1800.study.excalidraw.md",
+    "Study/Draws/EURJPY.230120.1800.study_0.excalidraw.md",
+    "Study/Draws/EURJPY.230120.1802.study.excalidraw.md",
+    "Study/Draws/TEST.230120.1803.study.excalidraw.md",
+    "Study/Draws/TEST2.230120.1803.study.excalidraw.md"
   ]
 }

@@ -6,7 +6,8 @@
     "view_url": "https://noteshare.space/note/clcpmi3j2855401pj13em37zp#3I4ttcVN7tJdqZlYJ/j5D2TdI8priBGEueBlkS2pUNM",
     "secret_token": "v+uUiMWhmqxkKrsKwu/4gcDymYTTxxFoc9oTzKaHIGE=",
     "note_id": "clcpmi3j2855401pj13em37zp",
-    "basename": "230109135003"
+    "basename": "230109135003",
+    "deleted_from_vault": true
   },
   "Excalidraw/EURJPY-2301121527_draw_230112-152712.excalidraw.md": {
     "shared_datetime": "2023-01-12T19:33:22.047Z",
@@ -15,7 +16,8 @@
     "view_url": "https://noteshare.space/note/clcthni1j1489201pjxkl9tli9#4XWjzeLWwpG20oBvLGLQLYysBugTKnBWvaGh/WYgqpI",
     "secret_token": "RV4Mfmf1BJgC2ChyeTJLgD8wd3BvaLL0UftraVLtZyE=",
     "note_id": "clcthni1j1489201pjxkl9tli9",
-    "basename": "EURJPY-2301121527_draw_230112-152712"
+    "basename": "EURJPY-2301121527_draw_230112-152712",
+    "deleted_from_vault": true
   },
   "Excalidraw/EURUSD_draw_230109-140213.excalidraw.md": {
     "shared_datetime": "2023-01-09T20:46:11.633Z",
@@ -24,6 +26,7 @@
     "view_url": "https://noteshare.space/note/clcp9xkgy805001pjcnkbqtq5#9kroVDjhSCdGVvddPuAkKIqwXv7QoHKCWmFLSLZl0X8",
     "secret_token": "Dlpqbz8d+gOxENlv9heRdAua6VjB4HL5cezBJVfQQo8=",
     "note_id": "clcp9xkgy805001pjcnkbqtq5",
-    "basename": "EURUSD_draw_230109-140213"
+    "basename": "EURUSD_draw_230109-140213",
+    "deleted_from_vault": true
   }
 }

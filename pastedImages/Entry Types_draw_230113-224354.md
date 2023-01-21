@@ -8,10 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
-ET1, Outside a 4h POI
+EM1, Outside a 4h POI
 Wait for a 15m OF Ranges ^ONgpYzSH
 
-ET2, Inside a 4h POI ^7sBYBSjn
+EM2, Inside a 4h POI ^7sBYBSjn
 
 we wait 15m to get to the premium area
 Mark the extreme and flip POI
@@ -124,13 +124,13 @@ f69f0e637bd5c68966d4b397a7b8d728c5422bb5: [[Pasted Image 20230113233625_557.png]
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "ET1, Outside a 4h POI\nWait for a 15m OF Ranges",
-			"rawText": "ET1, Outside a 4h POI\nWait for a 15m OF Ranges",
+			"text": "EM1, Outside a 4h POI\nWait for a 15m OF Ranges",
+			"rawText": "EM1, Outside a 4h POI\nWait for a 15m OF Ranges",
 			"baseline": 77,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "ET1, Outside a 4h POI\nWait for a 15m OF Ranges"
+			"originalText": "EM1, Outside a 4h POI\nWait for a 15m OF Ranges"
 		},
 		{
 			"type": "text",

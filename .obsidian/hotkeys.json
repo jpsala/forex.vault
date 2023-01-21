@@ -100,5 +100,21 @@
       ],
       "key": "V"
     }
+  ],
+  "obsidian-excalidraw-plugin:jp-align-horiz": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "obsidian-excalidraw-plugin:Fixed vertical distance": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
   ]
 }

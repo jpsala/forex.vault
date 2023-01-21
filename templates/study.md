@@ -6,7 +6,7 @@
   ea.reset();
   ea.style.strokeColor = "red";
   ea.addText(0,0,"#study");
-  ea.addText(0,25,"#" + pair);
+  ea.addText(0,25,"#pair/" + pair);
   await ea.create({
     filename : title,
     foldername : folder,
