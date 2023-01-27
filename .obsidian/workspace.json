@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86f4af1441dfee21",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Entries/Draws/EURJPY-230126.1658.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "a1ff2cecc868009a",
             "type": "leaf",
             "state": {
@@ -93,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -111,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entries/Draws/EURJPY-230126.1658.excalidraw.md",
+                "file": "Excalidraw/DUDAS.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entries/Draws/EURJPY-230126.1658.excalidraw.md"
+                "file": "Excalidraw/DUDAS.excalidraw.md"
               }
             }
           },
@@ -184,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entries/Draws/EURJPY-230126.1658.excalidraw.md",
+                "file": "Excalidraw/DUDAS.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -244,17 +233,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "86f4af1441dfee21",
+  "active": "a1ff2cecc868009a",
   "lastOpenFiles": [
-    "pastedImages/mimi.webm",
+    "empty files.md",
+    "templates/Entry.md",
+    "broken links output.md",
+    "orphaned files output.md",
+    "Notes/mimi.webm",
+    "Notes/Ami.md",
+    "Entries/Draws/TEST6-230121.1633.excalidraw.md",
+    "Entries/Draws/EURJPY-230122.2238.excalidraw.md",
     "Entries/Draws/EURJPY-230126.1658.excalidraw.md",
-    "Entries/EURJPY-230126.1658.md",
-    "Entries/Draws/EURJPY-230126.1640.excalidraw.md",
-    "Entries/EURJPY-230126.1640.md",
-    "Entries/Draws/EURJPY-230126.1243.excalidraw.md",
-    "Excalidraw/DUDAS.excalidraw.md",
-    "Entries/EURJPY-230126.1243.md",
-    "Analysis/EURJPY.excalidraw.md",
-    "pastedImages/Pasted Image 20230126120944_874.png"
+    "Entries/EURJPY-230126.1658.md"
   ]
 }
