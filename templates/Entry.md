@@ -17,7 +17,10 @@
     templatePath: 'Excalidraw/Template.excalidraw',
     onNewPane : false
   });
-
+  // setTimeout(async ()=>{
+  //   await this.app.workspace.activeLeaf.openFile( folder+"/Draws/"+filename+ '.excalidraw' );
+  //   }, 100)
+  
 %>
 datetime: <% tp.date.now("YYYY-MM-DD ddd HH:mm:ss") %>
 doc-type: forex
@@ -28,6 +31,7 @@ tp:
 ep:
 
 ---
+
 ```dataviewjs 
 
 

@@ -8,29 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7cf3e3268fb62ce",
+            "id": "86f4af1441dfee21",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Study/Draws/EURJPY.230120.1816.study.excalidraw.md"
+                "file": "Entries/Draws/EURJPY-230126.1658.excalidraw.md"
               }
             }
           },
           {
-            "id": "01eacf6632eae994",
+            "id": "a1ff2cecc868009a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/DUDAS.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "230115_draw_230115-214017",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Entries/Draws/EURJPY-230126.1658.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Entries/Draws/EURJPY-230126.1658.excalidraw.md"
               }
             }
           },
@@ -187,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Entries/Draws/EURJPY-230126.1658.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,23 +238,23 @@
       "audio-recorder:Start/stop recording": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "hidden-folder-obsidian:Hidden Folders": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "01eacf6632eae994",
+  "active": "86f4af1441dfee21",
   "lastOpenFiles": [
-    "Study/Draws/EURJPY.230120.1816.study.excalidraw.md",
-    "templates/Study.md",
-    "Study/Draws/EURJPY.230120.1806.study.excalidraw.md",
-    "Untitled 2.md",
-    "templates/Draw.md",
-    "Excalidraw/Template.excalidraw.md",
-    "Study/Draws/EURJPY.230120.1800.study.excalidraw.md",
-    "Study/Draws/EURJPY.230120.1800.study_0.excalidraw.md",
-    "Study/Draws/EURJPY.230120.1802.study.excalidraw.md",
-    "Study/Draws/TEST.230120.1803.study.excalidraw.md"
+    "pastedImages/mimi.webm",
+    "Entries/Draws/EURJPY-230126.1658.excalidraw.md",
+    "Entries/EURJPY-230126.1658.md",
+    "Entries/Draws/EURJPY-230126.1640.excalidraw.md",
+    "Entries/EURJPY-230126.1640.md",
+    "Entries/Draws/EURJPY-230126.1243.excalidraw.md",
+    "Excalidraw/DUDAS.excalidraw.md",
+    "Entries/EURJPY-230126.1243.md",
+    "Analysis/EURJPY.excalidraw.md",
+    "pastedImages/Pasted Image 20230126120944_874.png"
   ]
 }

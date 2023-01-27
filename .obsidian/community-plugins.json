@@ -49,5 +49,6 @@
   "find-unlinked-files",
   "obsidian-file-cleaner",
   "obsidian-sidebar-expand-on-hover",
-  "nuke-orphans"
+  "nuke-orphans",
+  "obsidian-user-plugins"
 ]

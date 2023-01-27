@@ -23,6 +23,8 @@
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",
+  "allowPinchZoom": false,
+  "allowWheelZoom": false,
   "zoomToFitOnOpen": false,
   "zoomToFitOnResize": false,
   "zoomToFitMaxLevel": 1,
@@ -294,14 +296,14 @@
     "Fixed vertical distance": {
       "Prompt for spacing?": false,
       "Default spacing": {
-        "value": 20,
+        "value": 15,
         "description": "Fixed vertical spacing between elements"
       },
       "Remember last spacing?": false
     }
   },
   "defaultTrayMode": false,
-  "previousRelease": "1.8.10",
+  "previousRelease": "1.8.11",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",

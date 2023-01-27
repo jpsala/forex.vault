@@ -1,0 +1,10 @@
+{
+  "snippets": [
+    "module.exports = {}\n\nmodule.exports.onload = async (plugin) => {\n  const MarkdownView = plugin.passedModules.obsidian.MarkdownView\n  plugin.addCommand({\n    id: 'new-note-in-folder',\n    name: 'Create new note in a folder',\n    callback: async () => {\n      const folders = plugin.app.vault.getAllLoadedFiles().filter(i => i.children).map(folder => folder.path);\n      const folder = await plugin.helpers.suggest(folders, folders);\n      const created_note = await plugin.app.vault.create(folder + \"/Untitled.md\", \"\")\n      const active_leaf = plugin.app.workspace.activeLeaf;\n      if (!active_leaf) {\n        return;\n      }\n      await active_leaf.openFile(created_note, {\n        state: { mode: \"source\" },\n      });\n      plugin.app.workspace.trigger(\"create\",created_note)\n      const view = app.workspace.getActiveViewOfType(MarkdownView);\n      if (view) {\n        const editor = view.editor;\n        editor.focus()\n      }\n    }\n  });\n}",
+    ""
+  ],
+  "scriptsFolder": "",
+  "enabledScripts": [
+    ""
+  ]
+}
